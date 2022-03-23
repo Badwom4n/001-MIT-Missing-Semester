@@ -1,3 +1,8 @@
-#! /usr/bin/sh
+#! /bin/zsh 
 
-echo $(pwd)
+marco(){
+	dir=$(pwd)
+	echo "I am in $dir"
+}
+
+#Run this program by using "source marco.sh" then "marco"
