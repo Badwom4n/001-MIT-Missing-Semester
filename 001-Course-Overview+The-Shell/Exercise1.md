@@ -23,5 +23,5 @@
 
 ## Solution
 
-![iterm2](fig1.png)
-![iterm2](fig2.png)
+![iterm2](fig1-1.png)
+![iterm2](fig1-2.png)
