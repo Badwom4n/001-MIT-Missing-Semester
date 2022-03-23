@@ -37,3 +37,4 @@ def main():
 if __name__=='__main__':
     main();
 ```
+![iterm](fig3-1.png)
