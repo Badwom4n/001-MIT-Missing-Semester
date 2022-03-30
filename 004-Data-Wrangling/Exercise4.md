@@ -85,3 +85,4 @@
    cd /usr/share/dict
    cat words | grep ".*a.*a.*a" | grep -v ".*'s" | sed -E 's/.*(..)/\1/' | sort | uniq -c | sort -nk11 | tail -n5 | awk '{print $2}'
    ```
+![iterm](fig4-1.png)
