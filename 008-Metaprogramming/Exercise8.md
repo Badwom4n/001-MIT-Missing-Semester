@@ -39,3 +39,8 @@
     [`write-good`](https://github.com/btford/write-good) on all the
     `.md` files in the repository. Enable it in your repository, and
     check that it works by filing a pull request with a typo in it.
+
+## Solution
+
+I redo the task(make a pdf) in class. Here is the figure.
+![iterm](fig8-1.png)
