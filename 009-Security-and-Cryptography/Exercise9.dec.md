@@ -40,5 +40,3 @@
     1. Sign a Git commit with `git commit -S` or create a signed Git tag with
        `git tag -s`. Verify the signature on the commit with `git show
        --show-signature` or on the tag with `git tag -v`.
-
-![iterm](fig9-1.png)
