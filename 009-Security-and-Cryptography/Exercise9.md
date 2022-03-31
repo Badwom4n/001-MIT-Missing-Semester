@@ -41,4 +41,11 @@
        `git tag -s`. Verify the signature on the commit with `git show
        --show-signature` or on the tag with `git tag -v`.
 
+## Solution
+
+3. ```bash
+   openssl aes-256-cbc -salt -in Exercise9.md -out Exercise9.enc.md  #encryption
+   openssl aes-256-cbc -d -in Exercise9.enc.md -out Exercise9.dec.md  #decryption
+   ```
+
 ![iterm](fig9-1.png)
